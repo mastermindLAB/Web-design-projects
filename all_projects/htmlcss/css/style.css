@@ -1,0 +1,33 @@
+body{
+    background:blue;
+    background-image: url(../images/g3.JPG);
+    background-repeat: repeat-x;
+}
+
+#wrapper {
+    background:red;
+    
+    
+    
+    width:400px;
+    height:900px;
+    margin: 20px 90px 90px 20px;
+    
+}
+.inner {
+    background:yellow;
+    height:300px;
+    width:200px;
+    margin: 0 auto;
+}
+.inner-1 {
+    background: green;
+    background-clip: inherit;
+   
+    
+    
+}
+.inner-2 {
+    background: white;
+   
+}
